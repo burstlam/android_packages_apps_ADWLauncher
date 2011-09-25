@@ -146,8 +146,11 @@
     <string name="pref_title_hide_ab_bg">Verberg achtergrond actieknop</string>
     <string name="pref_summary_hide_ab_bg">Verberg de achtergrond van de actieknop</string>
 
-    <string name="pref_title_hide_icon_labels">Verberg icoonlabels</string>
-    <string name="pref_summary_hide_icon_labels">Verberg icoonlabels op het bureaublad</string>
+    <string name="pref_title_lock_ab">Zet actieknoppen vast</string>
+    <string name="pref_summary_lock_ab">Voorkom bewerking van actieknoppen</string>
+
+    <string name="pref_title_hide_icon_labels">Verberg icoon labels</string>
+    <string name="pref_summary_hide_icon_labels">Verberg icoon labels op de desktop</string>
 
     <string name="pref_title_build_info">Informatie</string>
     <string name="pref_title_adw_version">ADW-versie</string>
